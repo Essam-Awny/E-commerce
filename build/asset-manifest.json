@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45b74eb1.css",
+    "main.js": "/static/js/main.8afd5533.js",
+    "static/js/453.56fc727d.chunk.js": "/static/js/453.56fc727d.chunk.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/freshcart-logo.svg": "/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.45b74eb1.css.map": "/static/css/main.45b74eb1.css.map",
+    "main.8afd5533.js.map": "/static/js/main.8afd5533.js.map",
+    "453.56fc727d.chunk.js.map": "/static/js/453.56fc727d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45b74eb1.css",
+    "static/js/main.8afd5533.js"
+  ]
+}
